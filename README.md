@@ -50,6 +50,8 @@ AWS 클라우드를 활용한 자바(JAVA) Server 개발자
 >맡은 역할: 테크 리더  </br>
 >[프로젝트 상세 설명](https://github.com/Vida0822/Tumblbug_JSP_Project) 참고 </br>
 
+
+
 #### ㄴ. [2차 프로젝트 : Spring 프레임워크 활용](https://github.com/Vida0822/Tumblbug_Spring-Security-Project)
 > 크라우드 펀딩 사이트 '텀블벅' 기능 구현 - Spring Security를 활용한 기존 jsp프로젝트 컨벌팅 프로젝트  </br> </br>
 > 팀 프로젝트 (7인) </br>
@@ -78,20 +80,7 @@ AWS 클라우드를 활용한 자바(JAVA) Server 개발자
 
 ---
 
-### 3. [설문조사 시스템](https://github.com/Vida0822/Survey_DBModeling)
->  설문조사 시스템_db모델링 실습 (요구분석, 논리적 모델링, 물리적 모델링) </br> </br>
-> 팀 프로젝트 (7인)   </br>
-> 개발 기간: 2023.03.29 ~ 2023.03.30 (2일)  </br>
->  
-> 기술 스택:   </br>
-> Oracle / PL/SQL / SQL Developer   </br>
->
-> 맡은 역할: 기획 및 개발 팀원  </br>
->[프로젝트 상세 설명](https://github.com/Vida0822/Airbnb_Oracle-PLSQL-Project) 참고 </br>
-
----
-
-### 4. [테니스 계수기](https://github.com/Vida0822/TennisCounter_Java-Interface-Project)
+### 3. [테니스 계수기](https://github.com/Vida0822/TennisCounter_Java-Interface-Project)
 > Java의 interface 개념을 활용한 테니스 계수기 구현과 파일 출력기능 </br> </br>
 > 팀 프로젝트 (7인)   </br>
 > 개발 기간: 2023 03.05 ~ 2023.03.10 (6일)  </br>
