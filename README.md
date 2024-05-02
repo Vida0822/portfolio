@@ -19,7 +19,7 @@ AWS 클라우드를 활용한 자바(JAVA) Server 개발자
 ## :pushpin: 교육
 - 한국외국어대학교 (서울)
   
-    - 노어과 / 국제 통상학과
+    - 노어과 / AI Software 
     - 2019.02 ~ 2023.12 (재학)
       
 - K-Digital Training : 쌍용 교육 센터
